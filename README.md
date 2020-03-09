@@ -1,3 +1,10 @@
 # NotRetroGames
-Video game project made in first year of university
-![test](https://i.gyazo.com/9543f7ec111338effefa7740e0d06a79.png)
+Video game project made in first year of university.
+Containing the games:
+* NOT SPACE INVADERS
+* NOT PONG
+* NOT SNAKE
+
+
+Images of game: 
+![menu](https://i.gyazo.com/e1b88cb5aad802fdb6e6f206484f01e5.mp4)
